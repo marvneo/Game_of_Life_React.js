@@ -1,6 +1,6 @@
 # Conway's Game of Life
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and hsoted on Netlify [here](https://stellular-fairy-4a77f8.netlify.app/). 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and hosted on Netlify [here](https://stellular-fairy-4a77f8.netlify.app/). 
 
 It simulates life with single-celled organisms reproducing and dying depending on the density of the population (measured by if the neigbbouring cells are dead or alive). This can create various interesting patterns. 
 
